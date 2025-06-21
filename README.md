@@ -29,7 +29,7 @@ Welcome to the **Real Estate Website** — a modern, responsive, and real-time w
 
 ## 📢 Disclaimer
 
-> **⚠️ NOTE:** **Due to client confidentiality, the source code cannot be shared publicly. However, the project can be provided or demonstrated upon request. This project was developed based on specific client requirements.To view website functionality view functionality video download from source**
+> **⚠️ NOTE:** **Due to client confidentiality, the source code cannot be shared publicly. However, the project can be provided or demonstrated upon request. This project was developed based on specific client requirements.To view website functionality view functionality video download from source.**
 
 
 ![Screenshot 2025-05-31 150206](https://github.com/user-attachments/assets/6c174b0d-d9e8-46ee-a128-4fbbedb16ea3)
